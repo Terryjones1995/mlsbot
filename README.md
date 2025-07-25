@@ -1,0 +1,2 @@
+# mlsbot
+Discord Queue Bot
